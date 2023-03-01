@@ -11,9 +11,9 @@
 
 [![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
-![DevSamaria GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=trueColor=Dark)
+![DevSamaria GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamaria&show_icons=trueColor=Dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&hide_progress=true)](https://github.com/-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSamaria&hide_progress=true)](https://github.com/-readme-stats)
 
 ## Tecnologias que eu uso no meu dia á dia
 
