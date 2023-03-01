@@ -1,5 +1,5 @@
 
-### Olá! Eu sou Alberto Samaria✋
+### Olá! Eu sou DevSamaria✋
 
 [![Blog](https://img.shields.io/website?label=SujeitoProgramador.com&style=for-the-badg&url=https://sujeitoprogramador.com/)](https://sujeitoprogramador.com)
 
@@ -9,11 +9,11 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://sujeitoprogramador.com)
 
-[![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sujeitoprogramador.com)
+[![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
-![DevSamaria GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberto&show_icons=trueColor=Dark)
+![DevSamaria GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamaria&show_icons=trueColor=Dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSamaria&hide_progress=true)](https://github.com/-readme-stats)
 
 ## Tecnologias que eu uso no meu dia á dia
 
