@@ -11,7 +11,7 @@
 
 [![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://sujeitoprogramador.com)
 
-![Alberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberto&show_icons=trueColor=Dark)
+![DevSamaria GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberto&show_icons=trueColor=Dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/-readme-stats)
 
