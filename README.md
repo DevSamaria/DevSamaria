@@ -5,11 +5,11 @@
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://sujeitoprogramador.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://sujeitoprogramador.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://alberto_.samria)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://sujeitoprogramador.com)
 
-[![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
+[![Lenkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/feed/](https://www.linkedin.com/in/alberto-samaria-2021/))
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSamaria&show_icons=trueColor=Dark)
 
@@ -50,7 +50,5 @@ src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angula
 <div style="display:inline-block;"><br/>
 <img align="center" alt="Microsoft Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
 </div>
-
-
 <br/>
 Apaixonado por Tecnologia,educação e por mudar a vida das pessoas, atráves da Programação
